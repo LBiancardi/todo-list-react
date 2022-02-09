@@ -48,7 +48,7 @@ Todo list created with React and Vite.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://starscord-starwars.vercel.app/)
+[![Product Name Screen Shot][product-screenshot]](https://todo-list-react-mx0tcszfn-lbiancardi.vercel.app/)
 
 Project created with the idea to practice React, Vite.Js, Responsive websites, create a website from scratch and deploy.
 
@@ -129,7 +129,7 @@ Project Link: [https://github.com/LBiancardi/aluracord-starwars](https://github.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/LBiancardi/aluracord-starwars/graphs/contributors
+[contributors-url]: https://github.com/LBiancardi/todo-list-react/graphs/contributors
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/luis-biancardi/
-[product-screenshot]: public/screenshot.png
+[product-screenshot]: public/screenshot.jpg
